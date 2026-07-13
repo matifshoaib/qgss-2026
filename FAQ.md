@@ -101,8 +101,9 @@ ON24 is the platform used for all streamed and live content this year — lectur
 
 > **Tip:** Use **Google Chrome** for the best (headache-free) viewing experience. If a pop-up asks you to register, click the **login** tab and enter your registered email.
 
-**How do I know the lecture time in my own time zone?**
-Use the **calendar option** for each event on ON24 to see it in your local time zone.
+**I can't log in to ON24 / I'm having trouble accessing a session. Who do I contact?**
+First, make sure you're logging in with the **exact email address you registered for the event with**, try **Google Chrome**, and clear your cache or use a private/incognito window. If you still can't get in, reach out in the Discord `#technical-support` channel, or visit https://support.on24.com/hc/en-us/sections/20952746518939-Support. Please allow **1–2 business days** for a response.
+
 
 ### Discord & Support
 
