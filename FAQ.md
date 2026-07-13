@@ -134,18 +134,21 @@ Unfortunately no — the event is at capacity.
 Not yet. The team will share the content (and more) as an update to the **Qiskit YouTube channel** later this year. Please keep course materials among registered attendees only.
 
 ---
-
-## qBraid (Environment & Kernel)
-
-qBraid is **recommended for beginners** because it comes with the QGSS 2026 environment pre-configured. For all qBraid-specific questions, refer to qBraid's official documentation below. A qBraid setup video is available in the `#qbraid-support` channel.
+## Environment
 
 **Which environments can I use to run the labs?**
-- **qBraid Lab** — recommended for QGSS (Qiskit preconfigured, QGSS 2026 env ready)
+- qBraid Lab — recommended for QGSS (Qiskit preconfigured, QGSS 2026 env ready)
 - Google Colab
 - Locally via Jupyter Notebook or Visual Studio Code
 
 IBM also lists other supported online lab environments (OVHcloud AI Notebooks, IBM watsonx.ai / Watson Studio, Microsoft Azure ML Studio) in the official guide:
 https://quantum.cloud.ibm.com/docs/en/guides/online-lab-environments
+
+### qBraid (Environment & Kernel)
+
+qBraid is **recommended for beginners** because it comes with the QGSS 2026 environment pre-configured. For all qBraid-specific questions, refer to qBraid's official documentation below. A qBraid setup video is available in the `#qbraid-support` channel.
+
+
 
 **How do I select the environment and kernel for each lab?**
 An "active" environment in the sidebar only means it is available in the kernel selector. To actually use an environment in a notebook, you must select it explicitly from the kernel selector in the **upper-right corner** of the notebook.
@@ -163,4 +166,4 @@ You can configure session check-ins, idle timeout, and auto-shutdown in the qBra
 https://docs.qbraid.com/v2/lab/user-guide/settings
 
 
-(Thanks to: Maja, Dustin, Dimple and awesome QGSS mentors)
+(Thanks to: [Maja](https://github.com/Q-Bees), [Dustin](https://github.com/phasefactor), [Dimple]() and awesome QGSS mentors)
